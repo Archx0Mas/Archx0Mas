@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Franko || ~Archx0Mas~
+### Hi there 👋, my name is Franko || ~Archx0Mas
 #### I am Red Teamer and Programmer enthusiast!
 I'm a security researcher and red teamer operator in cyber security.
 I have participated in Cyber Drills on my country and contributing working as bug hunter in HackerOne platform bug bounty in free time for making a better security around companies in the world! I do stuff like Web penetration test , Active directory pentest ,malw dev for researching purposes, code review and developing mobile application with c#. 
