@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Franko || ~ Archx0Mas
-#### I am Red Teamer and Programmer enthusiast!
+#### I am Red Teamer and Security Consultant!
+## My blog is here : https://archx0mas.netlify.app/
 I'm a security researcher and red team operator in cyber security.I'm working as a full time red team consultant at Cyber Ranges platform right now!
-I have participated in Cyber Drills in my country and have been involved working as bug hunter in HackerOne platform in my free time to improve security in companies around the world! I do stuff like Web penetration test, Android pentesting , Active directory pentesting, malw dev for researching purposes, code review and developing mobile applications with c#.  
+I have participated in Cyber Drills in my country and have been involved working as bug hunter in HackerOne platform in my free time to improve security in companies around the world!I do stuff like Web penetration test, Android pentesting , Active directory pentesting, malw dev for researching purposes, code review and developing mobile applications with c#. 
 
 Skills: Bug hunting / C# / C++/ HTML & CSS / Python / Java
 
