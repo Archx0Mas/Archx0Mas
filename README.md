@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Franko || ~ Archx0Mas
-#### I am Red Teamer and Security Consultant!
 ## My blog is here: https://archx0mas.github.io/ & https://medium.com/@franko.janku
 I'm a penetration tester in cyber security at Silensec company. I'm working also as offensive security consultant at Cyber Ranges platform right now!
 I have participated in Cyber Drills in my country and have been involved working as bug hunter in HackerOne platform in my free time to improve security in companies around the world!I do stuff like Web penetration test, Android pentesting , Active directory pentesting, malw dev for researching purposes, code review and developing mobile applications with c#. 
