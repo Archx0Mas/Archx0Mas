@@ -5,7 +5,7 @@ I have participated in Cyber Drills in my country and have been involved working
 
 Skills: Bug hunting / C# / C++/ HTML & CSS / Python / Java
 
-- 📫 How to reach me: Linkedin or Proton Email 
+- 📫 How to reach me: Linkedin
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Archx0Mas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/franko-janku)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerone.svg' alt='hackerone' height='40'>](https://hackerone.com/mrfrank)  
